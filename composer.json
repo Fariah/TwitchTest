@@ -1,0 +1,7 @@
+{
+    "name": "fariah/twitch-test",
+    "type": "project",
+    "require": {
+        "league/oauth2-client": "^2.4"
+    }
+}
